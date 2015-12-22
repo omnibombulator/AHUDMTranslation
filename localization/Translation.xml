@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<messages>
+    <i>
+        <n>Tab_Welcome</n>
+        <v>Добро пожаловать</v>
+    </i>
+        
+    <i>
+        <n>Tab_Manager</n>
+        <v>Менеджер</v>
+    </i>
+    
+    <i>
+        <n>Tab_Customize</n>
+        <v>Кастомизация</v>
+    </i>
+	
+	<i>
+        <n>Tab_Other</n>
+        <v>Разное</v>
+    </i>
+	
+	<i>
+        <n>Tab_Settings</n>
+        <v>Настройки</v>
+    </i>
+	
+    <i>
+        <n>Welcome_WelcomeLabel</n>
+        <v>С возвращением</v>
+    </i>
+	
+	<i>
+        <n>Welcome_ProfileLabel</n>
+        <v>Выберите Ваш профиль:</v>
+    </i>
+	
+    <i>
+        <n>Welcome_ApplyButton</n>
+        <v>Принять</v>
+    </i>
+	
+    <i>
+        <n>Welcome_StartSilentMode</n>
+        <v>Запустить Тихий режим</v>
+    </i>
+	
+    <i>
+        <n>Welcome_BrowseButton</n>
+        <v>Выбрать</v>
+    </i>
+	
+    <i>
+        <n>Welcome_FindButton</n>
+        <v>Поиск</v>
+    </i>
+	
+	
+    <i>
+        <n>Manager_InformationLabel</n>
+        <v>Информация:</v>
+    </i>
+	
+    <i>
+        <n>Manager_HUDName</n>
+        <v>Название HUDа:</v>
+    </i>
+	
+    <i>
+        <n>Manager_HUDAuthor</n>
+        <v>Автор HUDа:</v>
+    </i>
+	
+    <i>
+        <n>Manager_ActVersion</n>
+        <v>Последняя версия:</v>
+    </i>
+
+    <i>
+        <n>Manager_YourVersion</n>
+        <v>Установленная версия:</v>
+    </i>
+	
+    <i>
+        <n>Manager_LastUpdate</n>
+        <v>Последнее обновление:</v>
+    </i>
+	
+    <i>
+        <n>Manager_Website</n>
+        <v>Вебсайт:</v>
+    </i>
+	
+    <i>
+        <n>Manager_SteamGroup</n>
+        <v>Группа в Steam:</v>
+    </i>
+	
+    <i>
+        <n>Manager_HudsTFPage</n>
+        <v>Страница на Huds.tf:</v>
+    </i>
+
+    <i>
+        <n>Manager_GOButton</n>
+        <v>Перейти</v>
+    </i>
+	
+    <i>
+        <n>Manager_FunctionsLabel</n>
+        <v>Функции:</v>
+    </i>
+	
+    <i>
+        <n>Manager_HudsManagerButton</n>
+        <v>Менеджер HUDов</v>
+    </i>
+	
+    <i>
+        <n>Manager_ShowChangelogButton</n>
+        <v>Изменения</v>
+    </i>
+	
+    <i>
+        <n>Manager_CheckForUpdatesButton</n>
+        <v>Проверить на обновления</v>
+    </i>
+
+	<i>
+        <n>Manager_UpdateHUDButton</n>
+        <v>Обновить HUD</v>
+    </i>
+	
+    <i>
+        <n>Manager_HudsManagerLabel</n>
+        <v>Менеджер HUDов:</v>
+    </i>
+	
+    <i>
+        <n>Manager_BackupManagerButton</n>
+        <v>Восстановление</v>
+    </i>
+
+	<i>
+        <n>Manager_ChangelogLabel</n>
+        <v>Изменения:</v>
+    </i>
+	
+    <i>
+        <n>Manager_BackupManagerLabel</n>
+        <v>Восстановление:</v>
+    </i>
+
+    <i>
+        <n>Customize_Overrides</n>
+        <v>Компоненты</v>
+    </i>
+	
+    <i>
+        <n>Customize_Crosses</n>
+        <v>Кресты</v>
+    </i>
+	
+    <i>
+        <n>Customize_Colors</n>
+        <v>Цвета</v>
+    </i>
+	
+    <i>
+        <n>Customize_Fonts</n>
+        <v>Шрифты</v>
+    </i>
+	
+    <i>
+        <n>Customize_Crosshair</n>
+        <v>Прицелы</v>
+    </i>
+	
+    <i>
+        <n>Customize_Hitmarker</n>
+        <v>Хитмаркер</v>
+    </i>
+	
+    <i>
+        <n>Customize_ClassIcon</n>
+        <v>Иконка класса</v>
+    </i>
+	
+    <i>
+        <n>Customize_Chat</n>
+        <v>Чат</v>
+    </i>
+	
+    <i>
+        <n>Customize_Killfeed</n>
+        <v>Киллфид</v>
+    </i>
+	
+    <i>
+        <n>Customize_DamageIndicator</n>
+        <v>Инд. урона</v>
+    </i>
+  
+ 	<i>
+        <n>Overrides_OverridesLabel</n>
+        <v>Компоненты:</v>
+    </i>
+	
+	<i>
+        <n>Overrides_PreviewLabel</n>
+        <v>Предпросмотр:</v>
+    </i>
+	
+	<i>
+        <n>Overrides_FunctionsLabel</n>
+        <v>Функции:</v>
+    </i>
+	
+	<i>
+        <n>Overrides_DontLoadPreview</n>
+        <v></v>
+    </i>
+	
+	<i>
+        <n>Killfeed_Apply</n>
+        <v>Apply</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_SettingsLabel</n>
+        <v>Main settings:</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_PreviewLabel</n>
+        <v>Preview:</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_PositionLabel</n>
+        <v>Position:</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_ColorLabel</n>
+        <v>Colors:</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_FunctionsLabel</n>
+        <v>Functions:</v>
+    </i>
+	
+	<i>
+        <n>Killfeed_CornerRadiusLabel</n>
+        <v>Corner radius:</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_LineSpacingLabel</n>
+        <v>Line spacing:</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_MaxDeathNoticesLabel</n>
+        <v>Max death notices:</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_LineHeightLabel</n>
+        <v>Line height:</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_RightfyLabel</n>
+        <v>Rightfy:</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_IconScaleLabel</n>
+        <v>Don't load preview</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_BluColorLabel</n>
+        <v>Blu color:</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_RedColorLabel</n>
+        <v>Red color:</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_IconColorLabel</n>
+        <v>Icon color:</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_BackgroundColorLabel</n>
+        <v>Background:</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_LocalPlayerColorLabel</n>
+        <v>Local player:</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_LocalBGColorLabel</n>
+        <v>Local BG:</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_Apply</n>
+        <v>Apply</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_Update</n>
+        <v>Update</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_VisualEditor</n>
+        <v>Visual Editor</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_XposLabel</n>
+        <v>Xpos:</v>
+    </i>
+		
+	<i>
+        <n>Killfeed_YposLabel</n>
+        <v>Ypos:</v>
+    </i>
+
+	<i>
+        <n>Remove_CanberemovedLabel</n>
+        <v>What you can remove:</v>
+    </i>
+		
+	<i>
+        <n>Remove_CanberestoredLabel</n>
+        <v>What you can restore:</v>
+    </i>
+		
+	<i>
+        <n>Remove_FunctionsLabel</n>
+        <v>Functions</v>
+    </i>
+		
+	<i>
+        <n>Remove_Update</n>
+        <v>Update</v>
+    </i>
+		
+	<i>
+        <n>Remove_RemoveSelected</n>
+        <v>Remove selected</v>
+    </i>
+		
+	<i>
+        <n>Remove_RestoreSelected</n>
+        <v>Restore selected</v>
+    </i>
+	
+</messages>
